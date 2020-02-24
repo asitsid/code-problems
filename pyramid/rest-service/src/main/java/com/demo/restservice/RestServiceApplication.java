@@ -10,7 +10,6 @@ import org.springframework.boot.autoconfigure.SpringBootApplication;
 	banana is a pyramid word because you have 1 'b', 2 'n's, and 3 'a's.
 	bandana is not a pyramid word because you have 1 'b' and 1 'd'.
 	For any requirements not specified via an example, use your best judgement to determine expected result.
-	You can use any language. When completed, please upload to a public repository, such as GitHub, and provide us with the link.
  *
  */
 @SpringBootApplication
